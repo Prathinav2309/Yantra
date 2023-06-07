@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-poppins: Poppins;
+  --font-tenali-ramakrishna: "Tenali Ramakrishna";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-3xs: 10px;
+  --font-size-sm-3: 13.3px;
+  --font-size-xs: 12px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #333;
+  --color-dimgray: #666;
+  --color-brown: #90182c;
+  --color-tomato: #dd4c1e;
+  --color-navajowhite: #fad8a5;
+  --color-red: #ff0000;
+
+  /* Gaps */
+  --gap-12xs: 1px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-xl: 20px;
+  --br-71xl: 90px;
+}

@@ -1,0 +1,39 @@
+.group-icon1 {
+  position: absolute;
+  height: 94.72%;
+  width: 98.02%;
+  top: 2.69%;
+  right: 0.83%;
+  bottom: 2.59%;
+  left: 1.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login-sign-up {
+  position: absolute;
+  height: 3.52%;
+  width: 24.43%;
+  top: 18.15%;
+  left: 72.66%;
+  display: inline-block;
+}
+.div10 {
+  position: absolute;
+  top: -684px;
+  left: -681px;
+  width: 4738.67px;
+  height: 2666.67px;
+  overflow: hidden;
+}
+.group-root {
+  position: relative;
+  background-color: var(--color-navajowhite);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 60px;
+  color: var(--color-red);
+  font-family: var(--font-tenali-ramakrishna);
+}

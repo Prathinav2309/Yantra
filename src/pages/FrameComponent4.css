@@ -1,0 +1,61 @@
+.group-icon {
+  position: absolute;
+  height: 94.72%;
+  width: 98.02%;
+  top: 2.69%;
+  right: 0.83%;
+  bottom: 2.59%;
+  left: 1.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.login {
+  position: absolute;
+  height: 3.52%;
+  width: 6.61%;
+  top: 20.37%;
+  left: 72.92%;
+  display: inline-block;
+}
+.rectangle-div,
+.rectangle-icon {
+  position: absolute;
+  height: 7.5%;
+  width: 8.96%;
+  top: 19.35%;
+  bottom: 73.15%;
+  border-radius: var(--br-71xl);
+  mix-blend-mode: soft-light;
+}
+.rectangle-div {
+  right: 19.32%;
+  left: 71.72%;
+  background-color: #d9d9d9;
+}
+.rectangle-icon {
+  right: 7.19%;
+  left: 83.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sign-up {
+  position: absolute;
+  height: 4.35%;
+  width: 8.28%;
+  top: 20.37%;
+  left: 84.22%;
+  display: inline-block;
+}
+.group-parent {
+  position: relative;
+  background-color: var(--color-navajowhite);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-red);
+  font-family: var(--font-tenali-ramakrishna);
+}

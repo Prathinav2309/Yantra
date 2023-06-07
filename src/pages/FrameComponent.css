@@ -1,0 +1,922 @@
+.frame-child {
+  position: absolute;
+  top: 145px;
+  left: calc(50% - 903px);
+  border-radius: var(--br-xl);
+  background: linear-gradient(
+    89.81deg,
+    rgba(255, 255, 255, 0),
+    rgba(245, 245, 245, 0.03) 11.98%,
+    rgba(250, 250, 250, 0.06) 21.35%,
+    rgba(250, 250, 250, 0.07) 28.13%,
+    rgba(249, 249, 249, 0.1) 37.5%,
+    rgba(255, 109, 3, 0.26)
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid var(--color-tomato);
+  box-sizing: border-box;
+  width: 1806px;
+  height: 789px;
+}
+.g156-icon,
+.path138-icon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path138-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -100%;
+  right: 0;
+  bottom: 100%;
+  left: 0;
+}
+.g156-icon {
+  height: 7.56%;
+  width: 15.99%;
+  top: -18.58%;
+  right: 13.25%;
+  bottom: 111.02%;
+  left: 70.75%;
+}
+.g156-icon,
+.g172,
+.text176 {
+  position: absolute;
+}
+.text176 {
+  height: 100%;
+  width: 100%;
+  top: -100%;
+  left: 0;
+  display: inline-block;
+}
+.g172 {
+  height: 3.06%;
+  width: 4.23%;
+  top: -13.39%;
+  right: 18.81%;
+  bottom: 110.33%;
+  left: 76.96%;
+  font-size: 13.33px;
+}
+.path196-icon {
+  position: absolute;
+  height: 0.29%;
+  width: 27.18%;
+  top: -23.37%;
+  right: 7.62%;
+  bottom: 123.08%;
+  left: 65.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.text204 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -100%;
+  left: 0;
+  text-decoration: underline;
+  display: inline-block;
+}
+.g200,
+.g206-icon {
+  position: absolute;
+  height: 3.86%;
+  width: 18.69%;
+  top: -83.24%;
+  right: 8.95%;
+  bottom: 179.38%;
+  left: 72.36%;
+}
+.g206-icon {
+  height: 9.37%;
+  width: 24.01%;
+  top: -97.82%;
+  right: 16.34%;
+  bottom: 188.46%;
+  left: 59.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.g222 {
+  position: absolute;
+  height: 5.19%;
+  width: 18.69%;
+  top: -90.15%;
+  right: 18.15%;
+  bottom: 184.97%;
+  left: 63.16%;
+}
+.g230-icon,
+.path228-icon,
+.path254-icon,
+.path256-icon,
+.path258-icon {
+  position: absolute;
+  height: 100%;
+  width: 0.96%;
+  top: -100%;
+  right: 40.35%;
+  bottom: 100%;
+  left: 58.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.g230-icon,
+.path254-icon,
+.path256-icon,
+.path258-icon {
+  height: 9.37%;
+  top: -97.82%;
+  bottom: 188.46%;
+}
+.path254-icon,
+.path256-icon,
+.path258-icon {
+  height: 54.26%;
+  width: 35.29%;
+  top: -84.75%;
+  right: 52.36%;
+  bottom: 130.5%;
+  left: 12.35%;
+}
+.path256-icon,
+.path258-icon {
+  height: 21.04%;
+  width: 10.36%;
+  top: -49.99%;
+  right: 68.98%;
+  bottom: 128.95%;
+  left: 20.65%;
+}
+.path258-icon {
+  height: 22.24%;
+  width: 7.64%;
+  top: -46.62%;
+  right: 71.97%;
+  bottom: 124.38%;
+  left: 20.39%;
+}
+.g260-icon,
+.path276-icon,
+.path278-icon,
+.path280-icon,
+.path282-icon {
+  position: absolute;
+  height: 2.61%;
+  width: 12.2%;
+  top: -25.95%;
+  right: 64.22%;
+  bottom: 123.33%;
+  left: 23.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path276-icon,
+.path278-icon,
+.path280-icon,
+.path282-icon {
+  height: 20.74%;
+  width: 17.02%;
+  top: -50.12%;
+  right: 81.17%;
+  bottom: 129.38%;
+  left: 1.81%;
+}
+.path278-icon,
+.path280-icon,
+.path282-icon {
+  height: 22.01%;
+  width: 14.7%;
+  top: -45.98%;
+  right: 79.7%;
+  bottom: 123.96%;
+  left: 5.6%;
+}
+.path280-icon,
+.path282-icon {
+  height: 2.98%;
+  width: 2.68%;
+  top: -58.48%;
+  right: 88.27%;
+  bottom: 155.5%;
+  left: 9.05%;
+}
+.path282-icon {
+  height: 1.86%;
+  width: 2.23%;
+  top: -54.79%;
+  right: 86.69%;
+  bottom: 152.93%;
+  left: 11.08%;
+}
+.path284-icon,
+.path286-icon,
+.path288-icon,
+.path290-icon,
+.path292-icon {
+  position: absolute;
+  height: 3.42%;
+  width: 1.22%;
+  top: -57.18%;
+  right: 86.82%;
+  bottom: 153.77%;
+  left: 11.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path286-icon,
+.path288-icon,
+.path290-icon,
+.path292-icon {
+  height: 2%;
+  width: 2.81%;
+  top: -52.58%;
+  right: 85.26%;
+  bottom: 150.58%;
+  left: 11.93%;
+}
+.path288-icon,
+.path290-icon,
+.path292-icon {
+  height: 4.27%;
+  width: 1.35%;
+  top: -55.57%;
+  right: 85.1%;
+  bottom: 151.3%;
+  left: 13.55%;
+}
+.path290-icon,
+.path292-icon {
+  height: 1.85%;
+  width: 2.88%;
+  top: -49.98%;
+  right: 84.34%;
+  bottom: 148.13%;
+  left: 12.77%;
+}
+.path292-icon {
+  height: 1.98%;
+  width: 3.07%;
+  top: -47.26%;
+  right: 83.24%;
+  bottom: 145.29%;
+  left: 13.68%;
+}
+.path294-icon,
+.path296-icon,
+.path298-icon,
+.path300-icon,
+.path302-icon {
+  position: absolute;
+  height: 2.04%;
+  width: 3.05%;
+  top: -44.57%;
+  right: 82.31%;
+  bottom: 142.53%;
+  left: 14.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path296-icon,
+.path298-icon,
+.path300-icon,
+.path302-icon {
+  height: 1.97%;
+  width: 3.08%;
+  top: -41.44%;
+  right: 81.39%;
+  bottom: 139.47%;
+  left: 15.53%;
+}
+.path298-icon,
+.path300-icon,
+.path302-icon {
+  height: 4.11%;
+  width: 1.49%;
+  top: -53.27%;
+  right: 83.06%;
+  bottom: 149.16%;
+  left: 15.46%;
+}
+.path300-icon,
+.path302-icon {
+  height: 3.98%;
+  width: 1.91%;
+  top: -50.34%;
+  right: 81.38%;
+  bottom: 146.36%;
+  left: 16.71%;
+}
+.path302-icon {
+  height: 3.72%;
+  width: 2.11%;
+  top: -47.55%;
+  right: 80.3%;
+  bottom: 143.83%;
+  left: 17.6%;
+}
+.path304-icon,
+.path306-icon,
+.path308-icon,
+.path310-icon,
+.path312-icon {
+  position: absolute;
+  height: 4.12%;
+  width: 1.8%;
+  top: -44.5%;
+  right: 79.69%;
+  bottom: 140.37%;
+  left: 18.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path306-icon,
+.path308-icon,
+.path310-icon,
+.path312-icon {
+  height: 2.12%;
+  width: 3.01%;
+  top: -38.32%;
+  right: 80.7%;
+  bottom: 136.2%;
+  left: 16.29%;
+}
+.path308-icon,
+.path310-icon,
+.path312-icon {
+  height: 3.6%;
+  width: 2.19%;
+  top: -40.27%;
+  right: 78.57%;
+  bottom: 136.68%;
+  left: 19.24%;
+}
+.path310-icon,
+.path312-icon {
+  height: 2.26%;
+  width: 2.94%;
+  top: -34.9%;
+  right: 80.25%;
+  bottom: 132.65%;
+  left: 16.81%;
+}
+.path312-icon {
+  height: 3.35%;
+  width: 2.35%;
+  top: -36.32%;
+  right: 77.95%;
+  bottom: 132.98%;
+  left: 19.69%;
+}
+.path314-icon,
+.path316-icon,
+.path318-icon,
+.path320-icon,
+.path322-icon {
+  position: absolute;
+  height: 32.21%;
+  width: 9.42%;
+  top: -56.54%;
+  right: 79.78%;
+  bottom: 124.33%;
+  left: 10.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path316-icon,
+.path318-icon,
+.path320-icon,
+.path322-icon {
+  height: 1.84%;
+  width: 1.98%;
+  top: -45.74%;
+  right: 51.06%;
+  bottom: 143.9%;
+  left: 46.96%;
+}
+.path318-icon,
+.path320-icon,
+.path322-icon {
+  height: 1.18%;
+  width: 1.61%;
+  top: -43.49%;
+  right: 52.69%;
+  bottom: 142.32%;
+  left: 45.7%;
+}
+.path320-icon,
+.path322-icon {
+  height: 2.25%;
+  width: 0.94%;
+  top: -45.18%;
+  right: 53.16%;
+  bottom: 142.93%;
+  left: 45.9%;
+}
+.path322-icon {
+  height: 1.31%;
+  width: 1.99%;
+  top: -42.1%;
+  right: 53.37%;
+  bottom: 140.8%;
+  left: 44.64%;
+}
+.path324-icon,
+.path326-icon,
+.path328-icon,
+.path330-icon,
+.path332-icon {
+  position: absolute;
+  height: 2.85%;
+  width: 1.03%;
+  top: -44.3%;
+  right: 54.35%;
+  bottom: 141.44%;
+  left: 44.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path326-icon,
+.path328-icon,
+.path330-icon,
+.path332-icon {
+  height: 1.31%;
+  width: 1.99%;
+  top: -40.49%;
+  right: 54.11%;
+  bottom: 139.18%;
+  left: 43.91%;
+}
+.path328-icon,
+.path330-icon,
+.path332-icon {
+  height: 1.43%;
+  width: 2.11%;
+  top: -38.75%;
+  right: 54.89%;
+  bottom: 137.33%;
+  left: 43.01%;
+}
+.path330-icon,
+.path332-icon {
+  height: 1.52%;
+  width: 2.07%;
+  top: -37.03%;
+  right: 55.71%;
+  bottom: 135.52%;
+  left: 42.23%;
+}
+.path332-icon {
+  height: 1.39%;
+  width: 2.12%;
+  top: -34.97%;
+  right: 56.47%;
+  bottom: 133.58%;
+  left: 41.41%;
+}
+.path334-icon,
+.path336-icon,
+.path338-icon,
+.path340-icon,
+.path342-icon {
+  position: absolute;
+  height: 2.96%;
+  width: 0.94%;
+  top: -43.05%;
+  right: 55.87%;
+  bottom: 140.09%;
+  left: 43.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path336-icon,
+.path338-icon,
+.path340-icon,
+.path342-icon {
+  height: 2.94%;
+  width: 1.18%;
+  top: -41.24%;
+  right: 56.92%;
+  bottom: 138.3%;
+  left: 41.9%;
+}
+.path338-icon,
+.path340-icon,
+.path342-icon {
+  height: 2.79%;
+  width: 1.3%;
+  top: -39.46%;
+  right: 57.69%;
+  bottom: 136.67%;
+  left: 41%;
+}
+.path340-icon,
+.path342-icon {
+  height: 3.02%;
+  width: 1.12%;
+  top: -37.43%;
+  right: 58.47%;
+  bottom: 134.41%;
+  left: 40.41%;
+}
+.path342-icon {
+  height: 1.39%;
+  width: 2.12%;
+  top: -32.85%;
+  right: 57.14%;
+  bottom: 131.46%;
+  left: 40.73%;
+}
+.path344-icon,
+.path346-icon,
+.path348-icon,
+.path350-icon,
+.path352-icon {
+  position: absolute;
+  height: 2.72%;
+  width: 1.36%;
+  top: -34.67%;
+  right: 59.22%;
+  bottom: 131.95%;
+  left: 39.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path346-icon,
+.path348-icon,
+.path350-icon,
+.path352-icon {
+  height: 1.45%;
+  width: 2.1%;
+  top: -30.53%;
+  right: 57.68%;
+  bottom: 129.09%;
+  left: 40.22%;
+}
+.path348-icon,
+.path350-icon,
+.path352-icon {
+  height: 2.56%;
+  width: 1.47%;
+  top: -32.02%;
+  right: 59.74%;
+  bottom: 129.46%;
+  left: 38.79%;
+}
+.path350-icon,
+.path352-icon {
+  height: 21.02%;
+  width: 8.17%;
+  top: -44.58%;
+  right: 52.37%;
+  bottom: 123.55%;
+  left: 39.46%;
+}
+.path352-icon {
+  height: 29.81%;
+  width: 9.18%;
+  top: -58.46%;
+  right: 53.3%;
+  bottom: 128.66%;
+  left: 37.52%;
+}
+.path198-icon,
+.path354-icon,
+.path356-icon,
+.path358-icon,
+.path396-icon {
+  position: absolute;
+  height: 30.89%;
+  width: 4.95%;
+  top: -53.93%;
+  right: 56.85%;
+  bottom: 123.05%;
+  left: 38.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path198-icon,
+.path356-icon,
+.path358-icon,
+.path396-icon {
+  height: 10.07%;
+  width: 8.15%;
+  top: -36.13%;
+  right: 51.73%;
+  bottom: 126.06%;
+  left: 40.12%;
+}
+.path198-icon,
+.path358-icon,
+.path396-icon {
+  height: 10.67%;
+  width: 7.02%;
+  top: -34.12%;
+  right: 53.55%;
+  bottom: 123.45%;
+  left: 39.43%;
+}
+.path198-icon,
+.path396-icon {
+  height: 0.29%;
+  width: 13.31%;
+  top: -4.74%;
+  right: 14.62%;
+  bottom: 104.45%;
+  left: 72.07%;
+}
+.path198-icon {
+  height: 0.27%;
+  width: 14.17%;
+  top: -30.02%;
+  right: 24.35%;
+  bottom: 129.75%;
+  left: 61.48%;
+}
+.g12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.path198-icon1,
+.path198-icon2,
+.path198-icon3,
+.path198-icon4,
+.path198-icon5,
+.path198-icon6 {
+  position: absolute;
+  height: 0.27%;
+  width: 14.17%;
+  top: -60.49%;
+  right: 24.35%;
+  bottom: 160.22%;
+  left: 61.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path198-icon2,
+.path198-icon3,
+.path198-icon4,
+.path198-icon5,
+.path198-icon6 {
+  top: -51.44%;
+  bottom: 151.17%;
+}
+.path198-icon3,
+.path198-icon4,
+.path198-icon5,
+.path198-icon6 {
+  width: 35.05%;
+  top: -42.39%;
+  right: 3.47%;
+  bottom: 142.13%;
+}
+.path198-icon4,
+.path198-icon5,
+.path198-icon6 {
+  width: 14.17%;
+  top: -51.31%;
+  bottom: 151.04%;
+  left: 82.36%;
+}
+.path198-icon5,
+.path198-icon6 {
+  top: -30.15%;
+  bottom: 129.89%;
+}
+.path198-icon6 {
+  top: -60.49%;
+  bottom: 160.22%;
+}
+.password {
+  position: absolute;
+  top: -288.63px;
+  left: 846px;
+  display: inline-block;
+  width: 147px;
+  height: 19px;
+}
+.g10,
+.g10-icon {
+  position: absolute;
+  height: 69.6%;
+  width: 71.33%;
+  top: 84.78%;
+  right: 15.08%;
+  bottom: -54.38%;
+  left: 13.59%;
+}
+.g10-icon {
+  height: 25.88%;
+  width: 21.92%;
+  top: 32.13%;
+  right: 54.02%;
+  bottom: 41.99%;
+  left: 24.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  mix-blend-mode: multiply;
+}
+.address,
+.confirm-password,
+.email,
+.first-name,
+.last-name,
+.phone-no,
+.text190 {
+  position: absolute;
+  top: 401px;
+  left: 1107px;
+  display: inline-block;
+  width: 147px;
+  height: 19px;
+}
+.address,
+.confirm-password,
+.email,
+.last-name,
+.phone-no,
+.text190 {
+  left: 1387px;
+}
+.address,
+.confirm-password,
+.email,
+.phone-no,
+.text190 {
+  top: 478px;
+  left: 1389px;
+}
+.address,
+.confirm-password,
+.email,
+.text190 {
+  top: 630px;
+  left: 1382px;
+}
+.address,
+.email,
+.text190 {
+  top: 477px;
+  left: 1107px;
+}
+.address,
+.text190 {
+  top: 554px;
+}
+.text190 {
+  height: 1.76%;
+  width: 5.05%;
+  top: 77.87%;
+  left: 67.19%;
+  font-size: var(--font-size-3xs);
+  text-align: center;
+}
+.occupation {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.listbox-title,
+.listboxbg {
+  position: absolute;
+  height: 6.92%;
+  width: 90.91%;
+  top: -6.84%;
+  right: 4.55%;
+  bottom: 99.91%;
+  left: 4.55%;
+}
+.listboxbg {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+.chevron-icon {
+  position: absolute;
+  height: 11.58%;
+  width: 3.87%;
+  top: 45.05%;
+  right: 7.71%;
+  bottom: 43.38%;
+  left: 88.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.8;
+}
+.select-occupation {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.listbox-main,
+.placeholder-text {
+  position: absolute;
+  height: 33.33%;
+  width: 65.71%;
+  top: 33.33%;
+  right: 28.57%;
+  bottom: 33.33%;
+  left: 5.71%;
+}
+.listbox-main {
+  height: 20.76%;
+  width: 90.91%;
+  top: 9.69%;
+  right: 4.55%;
+  bottom: 69.55%;
+  left: 4.55%;
+  color: var(--color-dimgray);
+}
+.div {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+}
+.item-2 {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-white);
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.clip-list,
+.dropdown-list {
+  position: absolute;
+  overflow: hidden;
+}
+.dropdown-list {
+  width: 90.91%;
+  top: 68px;
+  right: 4.55%;
+  left: 4.55%;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  height: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-12xs);
+  opacity: 0;
+}
+.clip-list {
+  height: 90.31%;
+  width: 100%;
+  top: 23.61%;
+  right: -1.62%;
+  bottom: -13.93%;
+  left: 1.62%;
+  color: var(--color-darkslategray);
+}
+.listbox-component {
+  position: absolute;
+  top: 314px;
+  left: 1082px;
+  width: 516px;
+  height: 208px;
+  font-family: var(--font-montserrat);
+}
+.rectangle-parent {
+  position: relative;
+  background: linear-gradient(107.56deg, #fad8a5, #fab82a);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-brown);
+  font-family: var(--font-poppins);
+}
